@@ -2,7 +2,7 @@
 
 ## Description
 
-This is challenge #14 module 18 for the University of Minnesota bootcamp. Here I created the backed for a social network using MongoDB, Mongoose, and express. I made it so that users can create, update, and delete thoughts, as well as add and remove friends.
+This is challenge #14 module 18 for the University of Minnesota bootcamp. Here I created the backed for a social network using MongoDB, Mongoose, and express. I made it so that users can create, update, and delete users, thoughts, reactions, and friends.
 
 ## Usage
 
